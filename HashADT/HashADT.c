@@ -1,7 +1,8 @@
 //
 // File name: HashADT.c
 //
-// Description: Implementation of the Hash ADT functions that driver will interact with
+// Description: 
+// Implementation of the Hash ADT functions that user will interact with
 //
 // @author Nick Creeley - nc8004
 //
